@@ -12,7 +12,7 @@ https://github.com/user-attachments/assets/217b31be-6641-4bbf-8bdd-4dc0ca67a4dd
 
 
 -Validar entrada:
-<img width="910" height="702" alt="image" src="https://github.com/user-attachments/assets/2810ab69-ba3e-4813-b6ae-f367c8d05a59" />
+<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/2810ab69-ba3e-4813-b6ae-f367c8d05a59" />
 
 
 -Vizualisar los nombres ingresados:
