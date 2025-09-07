@@ -36,7 +36,7 @@ function sortearAmigo() {
     if (listaDeNombres.length < 2) {
         alert("Agrega al menos 2 amigos para hacer el sorteo.");
         return;
-    }
+    };
 
     let nombreSorteado = listaDeNombres[Math.floor(Math.random() * listaDeNombres.length)];
 
@@ -50,7 +50,8 @@ function reiniciarJuego() {
     document.getElementById("listaAmigos").innerHTML = "";
     document.getElementById("resultado").innerHTML = "";
     console.log("Juego reiniciado ✅");
-}
+};
+
 
 
 
